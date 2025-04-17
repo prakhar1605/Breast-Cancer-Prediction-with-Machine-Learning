@@ -1,7 +1,7 @@
 import pandas as pd, numpy as np, matplotlib.pyplot as plt
 
 
-# Load dataset
+# Load datasett
 data = load_breast_cancer()
 X = data.data  # Features
 y = data.target  # Labels
